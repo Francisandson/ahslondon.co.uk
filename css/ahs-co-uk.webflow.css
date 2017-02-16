@@ -829,7 +829,7 @@ p {
     padding-bottom: 70px;
   }
   .section.headline {
-    padding-top: 60px;
+    padding-top: 150px;
     padding-bottom: 60px;
   }
   .section.slider-image {
@@ -951,7 +951,7 @@ p {
     padding-bottom: 70px;
   }
   .section.headline {
-    padding-top: 50px;
+    padding-top: 150px;
     padding-bottom: 50px;
   }
   .section.slider-image {
@@ -1101,11 +1101,11 @@ p {
     text-align: left;
   }
   .section.headline {
-    padding-top: 50px;
+    padding-top: 150px;
     padding-bottom: 50px;
   }
   .section.iphene {
-    padding-top: 35px;
+    padding-top: 150px;
     text-align: left;
   }
   .line {
